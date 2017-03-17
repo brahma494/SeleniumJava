@@ -10,7 +10,7 @@ public class FoLoop {
 			System.out.println(i);
 		}
 		
-		
+	//	o/p:12345678910
 		
 	
 	}
