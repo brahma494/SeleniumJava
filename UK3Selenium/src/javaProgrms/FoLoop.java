@@ -11,7 +11,7 @@ public class FoLoop {
 		}
 		
 	//	o/p:12345678910
-		
+		//Print numbers
 	
 	}
 
